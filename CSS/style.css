@@ -449,7 +449,7 @@ img{
 }
 
 body{
-    background: url("/img/min/jpg/Intro_background-min.jpg") no-repeat top;
+    background: url("../img/min/jpg/Intro_background-min.jpg") no-repeat top;
     overflow-x: hidden;
     font-family: 'Montserrat', sans-serif   ;
 }
@@ -679,7 +679,7 @@ span.bold{
 
 .pluses{
     padding-bottom: 310px;
-    background: url('/img/min/jpg/ITMO-text_bckg-min.jpg') no-repeat bottom;
+    background: url('../img/min/jpg/ITMO-text_bckg-min.jpg') no-repeat bottom;
 }
 
 .pluses_wrapper{
@@ -792,7 +792,7 @@ span.bold{
 
 .business{
     padding-top: 170px;
-    background: url('/img/min/jpg/business_background-min.jpg') no-repeat center top;
+    background: url('../img/min/jpg/business_background-min.jpg') no-repeat center top;
     background-size: cover;
 
     margin-bottom: 150px;
@@ -852,7 +852,7 @@ span.bold{
 
 .partners{
     padding-bottom: 200px;
-    background: url('/img/min/jpg/success-text_bckg-min.jpg') no-repeat center bottom;
+    background: url('../img/min/jpg/success-text_bckg-min.jpg') no-repeat center bottom;
 }
 
 .partners_title{
@@ -895,7 +895,7 @@ span.bold{
 /* Success */
 
 .success{
-    background: url('/img/min/jpg/grey-wave-close_bckg-min.jpg') no-repeat center bottom;
+    background: url('../img/min/jpg/grey-wave-close_bckg-min.jpg') no-repeat center bottom;
     background-color: #f3f4f9;
     padding-top: 100px;
     padding-bottom: 150px;
@@ -967,7 +967,7 @@ span.bold{
 
     padding-right: 30px;
 
-    background: url('/img/svg/more_row.svg') no-repeat 95% center;
+    background: url('../img/svg/more_row.svg') no-repeat 95% center;
 
     transition: .3s all;
 }
@@ -988,7 +988,7 @@ span.bold{
 }
 
 .read_continue:hover{
-    background: url('/img/svg/more_row.svg') no-repeat right center;
+    background: url('../img/svg/more_row.svg') no-repeat right center;
 }
 
 /* Services */
@@ -1021,7 +1021,7 @@ span.bold{
     border-radius: 15px;
     box-shadow: 0 5px 60px rgba(0, 0, 0, 0.1);
 
-    background: url('/img/min/png/Services_triangle-min.png') no-repeat left 30px;
+    background: url('../img/min/png/Services_triangle-min.png') no-repeat left 30px;
     background-color: white;
 
     display: flex;
@@ -1057,7 +1057,7 @@ span.bold{
 /* Activities */
 
 .activities{
-    background: url('/img/min/jpg/Activities_background-min.jpg') no-repeat top center;
+    background: url('../img/min/jpg/Activities_background-min.jpg') no-repeat top center;
     background-size: cover;
     padding-bottom: 190px;
 }
@@ -1260,7 +1260,7 @@ span.bold{
 /* Gallery */
 
 .gallery{
-    background: url('/img/min/jpg/news-text_bckg-min.jpg') no-repeat center bottom;
+    background: url('../img/min/jpg/news-text_bckg-min.jpg') no-repeat center bottom;
 
     padding-top: 80px;
     padding-bottom: 250px;
@@ -1521,7 +1521,7 @@ span.bold{
 /* Projects */
 
 .projects{
-    background: url('/img/min/jpg/grey-wave-close_bckg-min.jpg') no-repeat center top;
+    background: url('../img/min/jpg/grey-wave-close_bckg-min.jpg') no-repeat center top;
     text-align: center;
     margin-bottom: 50px;
 }
@@ -1612,7 +1612,7 @@ span.bold{
 
 /* Footer */
 .footer{
-    background: url('/img/min/jpg/footer_background-min.jpg') top center no-repeat;
+    background: url('../img/min/jpg/footer_background-min.jpg') top center no-repeat;
     background-size: cover;
     background-color: #3949e7;
 }
@@ -1769,15 +1769,15 @@ span.bold{
 }
 
 .contacts_block li:nth-child(1){
-    background: url('/img/svg/footer/place.svg') center left no-repeat;
+    background: url('../img/svg/footer/place.svg') center left no-repeat;
 }
 
 .contacts_block li:nth-child(2){
-    background: url('/img/svg/footer/telephone.svg') center left no-repeat
+    background: url('../img/svg/footer/telephone.svg') center left no-repeat
 }
 
 .contacts_block li:nth-child(3){
-    background: url('/img/svg/footer/envelope.svg') center left no-repeat;
+    background: url('../img/svg/footer/envelope.svg') center left no-repeat;
     margin: 0;
 }
 
@@ -1986,7 +1986,7 @@ span.bold{
     }
 
     .footer{
-        background: url('/img/min/jpg/footer_bckg-min.jpg') center top no-repeat;
+        background: url('../img/min/jpg/footer_bckg-min.jpg') center top no-repeat;
         background-size: cover;
     }
 
